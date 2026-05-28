@@ -296,10 +296,21 @@
             display: inline-block;
             width: 75px;
             height: 75px;
-            border: 2px solid white;
-            background-color: #25D366;
             top: 80%;
             left: 92%;
-            z-index: 5;
-            border-radius: 55%;
+            z-index: 4;
         }
+
+.wa-button {
+    width: 75px;
+    height: 100%;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    background-image: url("./assets/whatsapp.png");
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+    z-index: 5;
+    border-radius: 55%;
+}
