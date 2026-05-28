@@ -1,0 +1,111 @@
+/**/
+.arrow-play {
+  font-size: 27px;
+  margin-left: 3px;
+  position: relative;
+  top: 5px;
+}
+
+.play-section {
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 3rem;
+}
+
+.main-history-pic-slide-title {
+    width: 50%;
+    line-height: 25px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.main-history-pic-slide-docs {
+    position: relative;
+    top: -5px;
+    width: 25rem;
+    height: 14.5rem;
+}
+
+.main-history-pic-slide-docs-image {
+    width: 22rem;
+    height: 13rem;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    background-size: cover;
+    z-index: 2;
+    background-position: center;
+    background-image: url('https://images.pexels.com/photos/8443077/pexels-photo-8443077.jpeg');
+}
+
+.main-history-pic-slide-docs-image-after {
+    width: 22rem;
+    position: relative;
+    height: 13rem;
+    border-radius: 10px;
+    top: 1.5rem;
+    left: 1rem;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://images.pexels.com/photos/9243563/pexels-photo-9243563.jpeg');
+}   
+
+.main-history-pic-nav-text {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    height: 100%;
+}
+
+.main-history-pic-nav-text > p {
+    position: relative;
+    top: 30%;
+}
+
+.main-history-pic-nav-actions {
+    width: 70%;
+    margin-left: 5%;
+    vertical-align: top;
+    padding-top: 20px;
+    position: relative;
+    display: inline-block;
+}
+
+.main-history-pic-nav-actions > p {
+    display: block;
+    font-size: 13px;
+    text-align: end;
+    width: 100%;
+}
+
+.main-history-pic-nav-actions > div {
+    border: 1px solid black;
+    position: relative;
+    top: -1px;
+    display: block;
+    margin-left: auto;
+    width: 5rem;
+    height: 2.3rem;
+}
+
+.main-history-pic-nav-actions-left {
+  width: 40%;
+  font-weight: 300;
+  position: relative;
+  top: 2px;
+  left: 30%;
+  font-size: 25px;
+  display: inline-block;
+}
+
+.main-history-pic-nav-actions-right {
+  width: 40%;
+  font-weight: 300;
+  position: relative;
+  top: 2px;
+  left: 10%;
+  font-size: 25px;
+  display: inline-block;
+}
+

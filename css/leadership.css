@@ -1,0 +1,30 @@
+
+.main-leadership-title {
+    font-size: 45px;
+    font-weight: 500;
+
+}
+
+.main-leadership-content-wrapper {
+    margin-top: 4rem;
+    border-radius: 10px;
+    vertical-align: top;
+    width: 95%;
+    height: 40rem;
+}
+
+.main-leadership-content-first {
+    width: 49%;
+    height: 35rem;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: rgb(227, 227, 227);
+}
+
+.main-leadership-content-second {
+    width: 50%;
+    height: 35rem;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: rgb(227, 227, 227);
+}
